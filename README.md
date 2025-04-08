@@ -38,6 +38,9 @@ _luego se realizó un árbol de máxima verosimilitud bajo el modelo GTR+I+G y c
 
 ```iqtree -s alineamiento_muscle.fasta -m GTR+I+G -bb 1000 -nt AUTO -pre arbol_ballenas```
 
+![Caos](https://github.com/Laura140104/Parcial/blob/main/arbol%20parcial.png)
+
+
 _seq1 es el outgroup_
 
 ## Tercer punto:
